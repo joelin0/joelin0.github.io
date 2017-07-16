@@ -138,25 +138,33 @@
   	/* Navigation Menu
    ------------------------------------------------------ */  
    var toggleButton = $('.menu-toggle'),
-       nav = $('.main-navigation');
+       nav = $('.main-navigation'),
+       topbar = $('.top-bar'),
+	   fakenav = $('.fake-navigation');
 
    // toggle button
    toggleButton.on('click', function(e) {
 
 		e.preventDefault();
 		toggleButton.toggleClass('is-clicked');
-		nav.slideToggle();
 
-	});
+       nav.slideToggle();
+       fakenav.slideToggle();
+       // topbar.toggleClass('is-clicked');
+
+
+   });
 
    // nav items
   	nav.find('li a').on("click", function() {   
 
    	// update the toggle button 		
-   	toggleButton.toggleClass('is-clicked'); 
-   	// fadeout the navigation panel
-   	nav.fadeOut();   		
-   	     
+   	toggleButton.toggleClass('is-clicked');
+
+	// fadeout the navigation panel
+   	nav.fadeOut();
+   	fakenav.fadeOut();
+
   	});
 
 

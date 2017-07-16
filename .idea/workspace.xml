@@ -4,8 +4,8 @@
     <list default="true" id="592836bc-caeb-48a8-8c71-36f1284f377a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inc/sendEmail.php" afterPath="$PROJECT_DIR$/inc/sendEmail.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +23,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="1043" column="27" lean-forward="false" selection-start-line="1043" selection-start-column="27" selection-end-line="1043" selection-end-column="27" />
+            <state relative-caret-position="348">
+              <caret line="57" column="36" lean-forward="false" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -33,8 +33,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-889">
-              <caret line="202" column="15" lean-forward="false" selection-start-line="202" selection-start-column="8" selection-end-line="202" selection-end-column="15" />
+            <state relative-caret-position="316">
+              <caret line="151" column="27" lean-forward="true" selection-start-line="151" selection-start-column="27" selection-end-line="151" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -43,18 +43,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2413">
-              <caret line="2412" column="1" lean-forward="false" selection-start-line="2412" selection-start-column="1" selection-end-line="2412" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sendEmail.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/inc/sendEmail.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="48" column="13" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="13" />
+            <state relative-caret-position="514">
+              <caret line="1279" column="31" lean-forward="false" selection-start-line="1279" selection-start-column="31" selection-end-line="1279" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -64,17 +54,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>copyright</find>
-      <find>face</find>
-      <find>https://www.facebook.com/joseph.lin.0</find>
-      <find>facebook</find>
-      <find>About</find>
-      <find>left: 90px</find>
-      <find>GPA</find>
-      <find>resume</find>
-      <find>skill-bars</find>
-      <find>href</find>
-      <find>Skills</find>
       <find>email me</find>
       <find>SUBMIT</find>
       <find>tube</find>
@@ -83,17 +62,28 @@
       <find>go-top</find>
       <find>absolute</find>
       <find>fixed</find>
-      <find>toggle</find>
       <find>100</find>
-      <find>.top-bar</find>
       <find>menu</find>
       <find>This email</find>
       <find>window.</find>
       <find>TODO</find>
-      <find>top-bar</find>
       <find>sendmail</find>
       <find>email</find>
       <find>nav-wra</find>
+      <find>opacity:</find>
+      <find>opacity: 0.1</find>
+      <find>over</find>
+      <find>hover</find>
+      <find>0.1</find>
+      <find>top-bar</find>
+      <find>is-clicked</find>
+      <find>.row</find>
+      <find>.top-bar</find>
+      <find>.nav</find>
+      <find>toggle</find>
+      <find>to</find>
+      <find>delay</find>
+      <find>main-navigation</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -103,10 +93,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/styles.html" />
-        <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/inc/sendEmail.php" />
+        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -293,20 +283,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500164942099</updated>
-      <workItem from="1500164945223" duration="12894000" />
+      <workItem from="1500164945223" duration="19743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12894000" />
+    <option name="totallyTimeSpent" value="19743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20833333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31435078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31435078" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -391,42 +382,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
+    <entry file="file://$PROJECT_DIR$/inc/sendEmail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-889">
-          <caret line="202" column="15" lean-forward="false" selection-start-line="202" selection-start-column="8" selection-end-line="202" selection-end-column="15" />
+        <state relative-caret-position="366">
+          <caret line="40" column="39" lean-forward="false" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/base.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="438" column="1" lean-forward="false" selection-start-line="438" selection-start-column="1" selection-end-line="438" selection-end-column="1" />
+        <state relative-caret-position="305">
+          <caret line="843" column="0" lean-forward="true" selection-start-line="843" selection-start-column="0" selection-end-line="843" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-2.1.3.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="2" column="30545" lean-forward="false" selection-start-line="2" selection-start-column="30545" selection-end-line="2" selection-end-column="30545" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="151" column="27" lean-forward="true" selection-start-line="151" selection-start-column="27" selection-end-line="151" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2413">
-          <caret line="2412" column="1" lean-forward="false" selection-start-line="2412" selection-start-column="1" selection-end-line="2412" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inc/sendEmail.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="48" column="13" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="13" />
+        <state relative-caret-position="514">
+          <caret line="1279" column="31" lean-forward="false" selection-start-line="1279" selection-start-column="31" selection-end-line="1279" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="1043" column="27" lean-forward="false" selection-start-line="1043" selection-start-column="27" selection-end-line="1043" selection-end-column="27" />
+        <state relative-caret-position="348">
+          <caret line="57" column="36" lean-forward="false" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
           <folding />
         </state>
       </provider>

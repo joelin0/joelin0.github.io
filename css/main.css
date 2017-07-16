@@ -1097,12 +1097,16 @@ header .row {
 }
 header .top-bar {
 	display: block;
-	background: #000000;
+	background-color: rgba(0, 0, 0, 0);
 	min-width: 200px;
 	min-height: 66px;
 	position: fixed;
 	left: 0;
 	top: 0;
+}
+
+header .top-bar.is-clicked {
+	background-color: rgba(0, 0, 0, 0.5);
 }
 /*header .logo {*/
 	/*float: left;*/
@@ -1229,12 +1233,22 @@ header .top-bar {
 	left: 0;
 }
 
+/* navigation panel */
+#fake-nav-wrap {
+	display: block;
+	width: 100%;
+	font-family: "poppins-medium", sans-serif;
+	font-size: 1.5rem;
+	position: absolute;
+	top: 100%;
+	left: 0;
+}
 /* dropdown nav */
 .main-navigation {
-	background: #000000;
+	background-color: rgba(0, 0, 0, 0.5);
 	padding: 24px 30px 42px;
 	margin: 0;
-	width: 100%;
+	width: 200px;
 	height: auto;
 	clear: both;
 	display: none;
@@ -1262,6 +1276,16 @@ header .top-bar {
 	color: #FF0077;
 }
 
+.fake-navigation{
+	background-color: rgba(0, 0, 0, 0.5);
+	position: absolute;
+	bottom: 0;
+	padding: 24px 30px 42px;
+	margin: 0;
+	width: 200px;
+	clear: both;
+	display: none;
+}
 /**
  * responsive:
  * header styles
