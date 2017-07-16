@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="592836bc-caeb-48a8-8c71-36f1284f377a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +22,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="42" column="27" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="27" />
+            <state relative-caret-position="213">
+              <caret line="411" column="36" lean-forward="true" selection-start-line="411" selection-start-column="36" selection-end-line="411" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -40,8 +42,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="1293" column="0" lean-forward="false" selection-start-line="1293" selection-start-column="2" selection-end-line="1312" selection-end-column="3" />
+            <state relative-caret-position="424">
+              <caret line="1541" column="20" lean-forward="false" selection-start-line="1541" selection-start-column="20" selection-end-line="1541" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -51,9 +53,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>tube</find>
-      <find>contact me</find>
-      <find>top</find>
       <find>go-top</find>
       <find>absolute</find>
       <find>fixed</find>
@@ -79,8 +78,11 @@
       <find>delay</find>
       <find>Copyright</find>
       <find>main-navigation</find>
-      <find>only</find>
       <find>top-bar</find>
+      <find>only</find>
+      <find>profile</find>
+      <find>.9</find>
+      <find>Bachelor</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -280,12 +282,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500164942099</updated>
-      <workItem from="1500164945223" duration="20000000" />
+      <workItem from="1500164945223" duration="21116000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20000000" />
+    <option name="totallyTimeSpent" value="21116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="6" />
@@ -413,16 +415,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="42" column="27" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="27" />
+        <state relative-caret-position="213">
+          <caret line="411" column="36" lean-forward="true" selection-start-line="411" selection-start-column="36" selection-end-line="411" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="1293" column="0" lean-forward="false" selection-start-line="1293" selection-start-column="2" selection-end-line="1312" selection-end-column="3" />
+        <state relative-caret-position="424">
+          <caret line="1541" column="20" lean-forward="false" selection-start-line="1541" selection-start-column="20" selection-end-line="1541" selection-end-column="20" />
           <folding />
         </state>
       </provider>

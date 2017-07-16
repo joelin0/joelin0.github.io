@@ -1289,7 +1289,8 @@ header .top-bar.is-clicked {
 /**
  * responsive:
  * header styles
- * --------------------------------------------------------------- 
+ * ---------------------------------------------------------------
+ * TODO: check if this is necessary on mobile
  */
 /*@media only screen and (max-width:1024px) {*/
 	/*header .top-bar {*/
@@ -1530,15 +1531,15 @@ header .top-bar.is-clicked {
 	margin-left: -30px;
 }
 .intro-info img {
-	height: 9rem;
-	width: 9rem;
+	height: 20rem;
+	width: 20rem;
 	border-radius: 50%;
 	margin: .9rem 0 0 0;
 	float: left;
 }
 .intro-info .lead {
 	text-align: left;
-	padding-left: 13rem;
+	padding-left: 22rem;
 }
 
 .about-content {
