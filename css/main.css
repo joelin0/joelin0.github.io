@@ -1038,17 +1038,17 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .section-intro h1 {
 	font-family: "poppins-semibold", serif;
 	font-size: 3.6rem;
-	color: #313131;
+	color: #FF0077;
 	line-height: 1.25;
 	margin-bottom: 1.2rem;
 }
-.section-intro h5 {
-	color: #FF0077;
-	font-size: 1.6rem;
-	line-height: 1.875;
-	margin-bottom: 0.3rem;
-	letter-spacing: .4rem;
-}
+/*.section-intro h2 {*/
+	/*color: #FF0077;*/
+	/*font-size: 1.6rem;*/
+	/*line-height: 1.875;*/
+	/*margin-bottom: 0.3rem;*/
+	/*letter-spacing: .4rem;*/
+/*}*/
 
 /**
  * responsive:
@@ -2281,10 +2281,10 @@ header .top-bar.is-clicked {
 	padding-top: 12rem;
 	padding-bottom: 7.2rem;
 }
+/*#contact .section-intro h1 {*/
+	/*color: white;*/
+/*}*/
 #contact .section-intro h1 {
-	color: white;
-}
-#contact .section-intro h5 {
 	color: #FF0077;
 }
 #contact .section-intro p {
